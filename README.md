@@ -15,8 +15,9 @@ NUnit VS Templates
 
 Visual Studio 2015 sürümü kullanılmıştır.
 1) n11 hesabınızda favoriler listesinin boş olduğundan emin olunuz.
-2) Kodun içinde bulunan email ve şifre kısmına n11 hesabınızın bilgilerini giriniz.
-3) 'Test Explorer' içinde bulunan 'Run All' linkine tıklayınız.
+2) Tarayıcı Firefox ayarlıdır değiştirmek için NuGet paketleri yüklemeniz gerekir.
+3) Kodun içinde bulunan email ve şifre kısmına n11 hesabınızın bilgilerini giriniz.
+4) 'Test Explorer' içinde bulunan 'Run All' linkine tıklayınız.
 
 
 
